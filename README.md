@@ -1,4 +1,4 @@
-# Tyre wers in transport
+# Tyre wear in transport
 > Data analysis of logistic data made with SQL window function and CTE queries and its visualization in Power BI dasboards. 
 
 ## Table of Contents
