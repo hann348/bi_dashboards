@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [SQL](#SQL-script)
+* [custom queries](#SQL-script)
 * [Screenshots](#screenshots)
 
 ## General Information
