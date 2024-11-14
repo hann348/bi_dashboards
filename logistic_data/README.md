@@ -20,6 +20,4 @@ Reducing environmental pollution from tires that wear out too quickly (with comp
 - SQL (PostgreSQL)
 - MS Power BI
 
-## Features
-
-- Interactive dashboards
+made by Hanna Wędrychowicz
