@@ -1,24 +1,25 @@
-# Tyre wear in transport
-> Data analysis of logistic data made with SQL window function and CTE queries and its visualization in Power BI dasboards. 
+# BI analysis
+> Data analysis of various data performed using SQL window function and CTE queries and their visualization in Power BI dasboards. 
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [custom queries](#SQL-script)
-* [Screenshots](#screenshots)
-
-## General Information
-
-In today's rapidly changing times, it is particularly important to contribute to the sustainable development of civil engineering technologies that have the least possible harmful impact on the natural environment.
-
-Analysis of data factors such as the wear of materials used for transport is particularly important in the case of marine pollution.
-
-Reducing environmental pollution from tires that wear out too quickly (with comparative analysis of factors such as the speed of tire heating, sustainable and safe driving in road conditions) can contribute to less pollution of the oceans and the preservation of the fauna living there in the future.
+* [Logistic data](#logistic-data)
+* [Financial fraud detection](#financial-fraud-detection])
 
 ## Technologies used
 
 - SQL (PostgreSQL)
 - MS Power BI
+
+## Logistic data
+
+Tyre wear in transport
+
+## Financial fraud detection
+
+Detection of fraud commiment in credit cards transactions using 3 sigma method and IQR.
+
+
 
 
 
