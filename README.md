@@ -19,6 +19,8 @@ Tyre wear in transport
 
 Detection of fraud commiment in credit cards transactions using 3 sigma method and IQR.
 
+
+
 #### made by Hanna Wędrychowicz
 
 
