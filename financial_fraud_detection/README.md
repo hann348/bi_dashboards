@@ -1,6 +1,7 @@
 # Financial Fraud Detection
 
 > Analyzing a dataset of credit card crimes with transactions flagged as fraud.
+
 > I used the interquartile range and 3-sigma methods to see which method was more effective in detecting outliers in transaction amounts.
 
 ## Table of Contents
