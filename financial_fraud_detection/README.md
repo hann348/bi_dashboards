@@ -17,10 +17,10 @@ them by merchant.
 The z-score is the distance between the mean of the distribution and the analyzed value expressed in standard deviation.
 Based on the z-score, 3-sigma method was applied. Transactions that were further than 3 sigma (that mean 3-z) were flagged as likely fraud.
 I grouped transactions by merchant because I thought different merchants might have a higher probability of fraud.
+
 When analyzing the correlations in the scatter plot, it turned out that almost all the merchants (650) have the same chance of 
-committing fraud.
-Which ultimately leads to the conclusion that the analyzed dataset is created from synthetic data. To make it more realistic, we should add 
-noise to the data.
+committing fraud. Which ultimately leads to the conclusion that the analyzed dataset is created from synthetic data. To make it more realistic, 
+we should add noise to the data.
 Therefore, to visualize the remaining graphs of the sums of legitimate and fraudulent transactions, I used grouping by transaction categories 
 (such as grocery, travel, entertainment), which resulted in more diverse data.
 
